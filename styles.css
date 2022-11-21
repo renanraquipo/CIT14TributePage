@@ -1,0 +1,41 @@
+h1 {
+ text-align: center;
+  color: red;
+}
+
+#title {
+    font-size: 400%;
+    width: 60vmax;
+  }
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding: auto;
+}
+
+.center {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.font{
+  text-align: center
+}
+
+body{
+  background: #FFE4B4;
+}
+
+figcaption{
+  text-align: center;
+  color:blue;
+}
